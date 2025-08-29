@@ -13,8 +13,7 @@ hidden directories
 * there's a bookmarks file in there and we can grep out `leviathan` to get the password
 # Command used to sign inn
 sshpass -p leviathan0 ssh leviathan0@leviathan.labs.overthewire.org -p 2223
-* there;s a hidden `.backup`  directory in the home directory
-* there's a bookmarks file in there and we can grep out `leviathan` to get the password
+
 
 🖥️ Web App
 - Login Page
